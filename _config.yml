@@ -49,7 +49,7 @@ sass:
 
 
 # GH-pages supported plugins
-gems:
+plugins:
   - jekyll-feed
   - jekyll-mentions
   - jemoji
