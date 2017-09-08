@@ -1,0 +1,23 @@
+- name: Software development
+  description: Idea ready? Let's turn it into a high-quality product available for millions of users.
+  icon: android
+
+- name: Mobile solutions architecture
+  description: Keeping the pace with frameworks and platforms is a full&#8209;time job. I do it so you don't have to.
+  icon: cloud
+
+- name: Technical consulting
+  description: From building agile software teams to organizing technical events, let my expertise be your expertise.
+  icon: users
+
+- name: Mobile strategy
+  description: In the hyperconnected world, there's so much more to it than just "building an app."
+  icon: line-chart
+
+- name: Internet of Things
+  description: How will your business perform in the world of ubiquitous computing?
+  icon: microchip
+  
+- name: Technical proof of concept work
+  description: Not sure what to do? Let's talk. 
+  icon: flask

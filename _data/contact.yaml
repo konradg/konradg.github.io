@@ -1,0 +1,16 @@
+- name: konrad@gorskisolutions.com
+  url: mailto:konrad@gorskisolutions.com
+  icon: envelope
+
+- name: +48 697 396 937
+  url: tel:+48697396937
+  icon: phone
+
+- name: linkedin.com/in/konradgrski
+  url: https://linkedin.com/in/konradgrski
+  icon: linkedin-square
+
+- name: >-
+    @Konrad_Gorski
+  url: https://twitter.com/Konrad_Gorski
+  icon: twitter
