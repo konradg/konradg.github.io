@@ -7,7 +7,7 @@ exclude: [Gemfile, Gemfile.lock]
 # Site settings
 title: Konrad Górski Solutions
 email: konradgrski@gmail.com
-description: "Konrad Górski Solutions: Mobile Software Services"
+description: "Konrad Górski Solutions | Mobile Software Services | Android Development | Mobile Solutions Architecture | Voice Assistant Apps | Technical Consulting | Mobile Strategy | Internet of Things"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
